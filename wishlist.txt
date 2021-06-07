@@ -1,3 +1,5 @@
+title:User's can-i-haz-cheeseburger wishlist
+
 // Fatebringer
 //notes:(PvE Pick) Recommended Masterwork: Range
 dimwishlist:item=2171478765&perks=1467527085,3142289711,3418782618,3824105627
