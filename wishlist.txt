@@ -65,3 +65,7 @@ dimwishlist:item=534775659&perks=1687452232,2779035018,1427256713
 //notes:(PvP) Pick
 dimwishlist:item=534775659&perks=1687452232,706527188,1754714824
 dimwishlist:item=534775659&perks=1687452232,2450788523,1754714824
+
+// Threaded Needle
+//notes:(PvE Pick) Recommended MW: Handling/Stability
+dimwishlist:item=3075224551&perks=839105230,1687452232,3300816228,1546637391
