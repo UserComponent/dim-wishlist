@@ -72,3 +72,13 @@ dimwishlist:item=534775659&perks=1687452232,2450788523,1754714824
 //notes:(PvE Pick) Recommended MW: Handling/Stability
 dimwishlist:item=3075224551&perks=839105230,1687452232,3300816228,1546637391
 dimwishlist:item=3075224551&perks=1840239774,1687452232,3300816228,1546637391
+
+// Class-Specific Swords
+// -- Eternity's Edge
+dimwishlist:item=2782325301&perks=1749209109,354401740
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+// -- Crown-Splitter
+dimwishlist:item=2782325302&perks=1749209109,1546637391
+dimwishlist:item=2782325302&perks=1749209109,3913600130
+// -- Quickfang
+dimwishlist:item=2782325300&perks=1749209109,354401740
