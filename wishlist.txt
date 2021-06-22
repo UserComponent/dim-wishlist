@@ -54,12 +54,26 @@ dimwishlist:item=304659313&perks=1441682018,2822142346,3161816588,4104185692
 dimwishlist:item=304659313&perks=3525010810,2822142346,3161816588,4104185692
 dimwishlist:item=304659313&perks=3798852852,2822142346,3161816588,4104185692
 
-// Plug One.1
-//notes:(PvE) Pick
-dimwishlist:item=1289000550&perks=1687452232,2779035018,1427256713
-//notes:(PvP) Pick
-dimwishlist:item=1289000550&perks=1687452232,706527188,1754714824
-dimwishlist:item=1289000550&perks=1687452232,2450788523,1754714824
+// Plug One.1 (Adept)
+//notes: (???  ???): AVOID: Full Bore and Charge Time MW.
+
+For barrel, anything with stability bonuses (chambered compensator -- top pick, corkscrew, and fluted), or even arrowhead-break for the huge bump in recoil direction.
+
+For magazine, Liquid Coils is god-tier for PvP activities, and Particle Repeater makes a good alternative. Enhanced battery, paired with Under Pressure can also increase the perk benefit to boost stability and acc at 4 in the mag vs 3, which could be very useful in PvP when you are running scav mods that inherently undermine something like Under Pressure, especially when you carry ammo over from round to round.
+
+Recommended MW: Stability (alternatively, Range)
+dimwishlist:item=534775659&perks=3661387068,1687452232,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,1687452232,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,1687452232,1645158859,1799762209
+dimwishlist:item=534775659&perks=839105230,1687452232,1645158859,1799762209
+dimwishlist:item=534775659&perks=3661387068,2680121939,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,2680121939,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,2680121939,1645158859,1799762209
+dimwishlist:item=534775659&perks=839105230,2680121939,1645158859,1799762209
+dimwishlist:item=534775659&perks=3661387068,3868766766,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,3868766766,1645158859,1799762209
+dimwishlist:item=534775659&perks=534775659,3868766766,1645158859,1799762209
+dimwishlist:item=534775659&perks=839105230,3868766766,1645158859,1799762209
 
 // Plug One.1 (Adept)
 //notes:(PvE) Pick
