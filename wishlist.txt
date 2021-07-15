@@ -98,7 +98,7 @@ dimwishlist:item=2782325302&perks=1749209109,3913600130
 dimwishlist:item=2782325300&perks=1749209109,354401740
 
 // Loud Lullaby
-//notes:UserComponent (???  ???): Recommended MW: Stability, or Range
+//notes:UserComponent: PvE feel-great aggressive roll. Recommended MW: Stability, or Range.
 dimwishlist:item=3924212056&perks=1467527085,2420895100,3436462433,4104185692
 dimwishlist:item=3924212056&perks=3661387068,2420895100,3436462433,4104185692
 dimwishlist:item=3924212056&perks=1840239774,2420895100,3436462433,4104185692
