@@ -207,6 +207,7 @@ dimwishlist:item=3472875143&perks=4067834857,3827198035,3700496672,3673922083
 dimwishlist:item=3472875143&perks=852209214,3429800428,3700496672,3673922083
 dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,3673922083
 dimwishlist:item=3472875143&perks=4067834857,3429800428,3700496672,3673922083
+dimwishlist:item=3472875143&perks=3700496672,3673922083
 
 // Iota Draconis
 //notes:UserComponent: Recommended MW: Stability ... Pretty picky roll for PvP here. Unsure of it's viability in PvE activities, but it will give you some breathing room between you and the Ogre barreling toward your team.
@@ -216,4 +217,6 @@ dimwishlist:item=3044460004&perks=839105230,1687452232,1645158859,2213355989
 // Canis Major
 //notes:UserComponent: Recommende MW: Velocity for boss-focus / Blast Radius for ad-focus 
 dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391
+dimwishlist:item=2066434718&perks=2822142346,2284787283,1546637391
 dimwishlist:item=2066434718&perks=2822142346,2284787283,2396489472
+dimwishlist:item=2066434718&perks=3301904089,2284787283,2396489472
